@@ -1,4 +1,4 @@
-package peoplefinder.POST.api.users.__id
+package NAC.POST.api.users.__id
 
 default allowed = false
 
