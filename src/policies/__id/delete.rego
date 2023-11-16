@@ -1,4 +1,4 @@
-package peoplefinder.DELETE.api.users.__id
+package NAC.DELETE.api.users.__id
 
 default allowed = false
 
