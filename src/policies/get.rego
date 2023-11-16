@@ -1,4 +1,4 @@
-package peoplefinder.GET.api.users
+package NAC.GET.api.users
 
 default allowed = true
 
