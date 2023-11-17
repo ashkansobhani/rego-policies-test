@@ -8,6 +8,6 @@ default enabled = false
 
 allowed {
 	props = input.user.properties
-	props.department == "Operations"
+	props.department == "finance"
 }
 
